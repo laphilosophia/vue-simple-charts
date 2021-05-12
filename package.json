@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "es6-promise": "^4.2.4",
     "vue": "^2.5.11",
     "vuex": "^3.0.1"
